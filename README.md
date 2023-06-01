@@ -1,4 +1,29 @@
-# Projet ALN
+# Polytech Lille - Projet ALN 2023
+
+Code possible du sujet de projet d'analyse linéaire numérique de Polytech Lille pour les IS3 en 2023. Ce repo vise à aider les élèves des prochaines années en cas de difficultés sur un sujet similaire.
+
+## Contenu
+
+* Sujet original
+* Rapport final au format pdf et tex dans le dossier rendus
+* Fichier README
+* Fonctions implémentées dans le dossier functions
+* Fichiers de test
+
+## Fonctions implémentées
+
+* Hessenberg
+* Gershgorin
+* Bissection
+* Séquence de Sturm
+* Comptage changement de signe séquence de Sturm
+* Puissance Inverse
+* Solve Triangular
+* Factorisation LU
+* Eigh
+* Bidiagonalisation
+* Reflecteur
+* SVD
 
 Pour voir l’utilisation de ces fonctions sur le cas général de l’ACP appliqué
 aux iris, utilisez les programmes suivants:
